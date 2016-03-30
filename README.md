@@ -1,4 +1,4 @@
-# movie-search-engine
+# Movie Search Engine
 This is a project about using C++ to C# wrapper
 
 Using C++ DLL's into a C# GUI
